@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Huge, deep talkbox voice: formants shifted down 7 semitones. -->
+<RoBoxPreset name="Formant Monster" version="1">
+  <PARAM id="mode" value="1"/>
+  <PARAM id="waveform" value="0"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="1"/>
+  <PARAM id="formant" value="-7"/>
+  <PARAM id="tube" value="50"/>
+  <PARAM id="eqLowFreq" value="150"/>
+  <PARAM id="eqLowGain" value="3"/>
+</RoBoxPreset>

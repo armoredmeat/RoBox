@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Detuned supersaw power chord with drive. Wide and aggressive. -->
+<RoBoxPreset name="Power Chord Vox" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="3"/>
+  <PARAM id="detune" value="25"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="2"/>
+  <PARAM id="chord" value="6"/>
+  <PARAM id="bands" value="4"/>
+  <PARAM id="drive" value="25"/>
+</RoBoxPreset>

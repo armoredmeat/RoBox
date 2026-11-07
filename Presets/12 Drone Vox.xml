@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Dark, slow drone: octave and fifth stack, 32 bands, long release. -->
+<RoBoxPreset name="Drone Vox" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="0"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="1"/>
+  <PARAM id="chord" value="3"/>
+  <PARAM id="bands" value="5"/>
+  <PARAM id="release" value="120"/>
+  <PARAM id="eqLowType" value="1"/>
+  <PARAM id="eqLowFreq" value="40"/>
+</RoBoxPreset>

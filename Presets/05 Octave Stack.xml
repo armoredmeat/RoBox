@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Saw plus an octave above for a big, wide robot chorus. -->
+<RoBoxPreset name="Octave Stack" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="0"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="2"/>
+  <PARAM id="chord" value="1"/>
+  <PARAM id="bands" value="3"/>
+  <PARAM id="sibilance" value="40"/>
+</RoBoxPreset>

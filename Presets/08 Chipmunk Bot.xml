@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Small, high robot: thin pulse wave, formants up. -->
+<RoBoxPreset name="Chipmunk Bot" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="2"/>
+  <PARAM id="pulseWidth" value="30"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="3"/>
+  <PARAM id="formant" value="7"/>
+  <PARAM id="bands" value="2"/>
+</RoBoxPreset>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Classic tight robot voice: bright saw, 16 bands, fast response. -->
+<RoBoxPreset name="Electro Robot" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="0"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="2"/>
+  <PARAM id="bands" value="2"/>
+  <PARAM id="attack" value="2"/>
+  <PARAM id="release" value="40"/>
+  <PARAM id="sibilance" value="35"/>
+  <PARAM id="noise" value="10"/>
+</RoBoxPreset>

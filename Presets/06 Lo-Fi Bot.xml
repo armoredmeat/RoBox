@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Crunchy, bit-crushed robot like an old sampler. -->
+<RoBoxPreset name="Lo-Fi Bot" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="1"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="2"/>
+  <PARAM id="bands" value="1"/>
+  <PARAM id="drive" value="20"/>
+  <PARAM id="crushBits" value="8"/>
+  <PARAM id="crushRate" value="11025"/>
+  <PARAM id="eqHighType" value="1"/>
+  <PARAM id="eqHighFreq" value="7000"/>
+</RoBoxPreset>

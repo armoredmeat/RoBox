@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Supersaw talkbox lead that follows MIDI notes. Play a melody on this track. -->
+<RoBoxPreset name="MIDI Lead" version="1">
+  <PARAM id="mode" value="1"/>
+  <PARAM id="waveform" value="3"/>
+  <PARAM id="detune" value="40"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="3"/>
+  <PARAM id="midiFollow" value="1"/>
+  <PARAM id="tube" value="55"/>
+  <PARAM id="eqHighFreq" value="6000"/>
+  <PARAM id="eqHighGain" value="3"/>
+</RoBoxPreset>

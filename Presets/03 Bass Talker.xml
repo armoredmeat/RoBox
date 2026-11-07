@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Square-wave talkbox with tube grit, set low for bass lines. -->
+<RoBoxPreset name="Bass Talker" version="1">
+  <PARAM id="mode" value="1"/>
+  <PARAM id="waveform" value="1"/>
+  <PARAM id="note" value="5"/>
+  <PARAM id="octave" value="2"/>
+  <PARAM id="tube" value="70"/>
+  <PARAM id="drive" value="15"/>
+  <PARAM id="eqLowFreq" value="120"/>
+  <PARAM id="eqLowGain" value="3"/>
+</RoBoxPreset>

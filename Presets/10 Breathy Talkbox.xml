@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Soft talkbox with extra air, so words stay clear. -->
+<RoBoxPreset name="Breathy Talkbox" version="1">
+  <PARAM id="mode" value="1"/>
+  <PARAM id="waveform" value="0"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="2"/>
+  <PARAM id="noise" value="30"/>
+  <PARAM id="tube" value="40"/>
+  <PARAM id="sibilance" value="50"/>
+  <PARAM id="release" value="90"/>
+</RoBoxPreset>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Low square-wave vocoder with drive, rolled off on top. Sits under a kick. -->
+<RoBoxPreset name="808 Monotone" version="1">
+  <PARAM id="mode" value="0"/>
+  <PARAM id="waveform" value="1"/>
+  <PARAM id="note" value="0"/>
+  <PARAM id="octave" value="1"/>
+  <PARAM id="bands" value="1"/>
+  <PARAM id="drive" value="30"/>
+  <PARAM id="eqLowFreq" value="100"/>
+  <PARAM id="eqLowGain" value="4"/>
+  <PARAM id="eqHighType" value="1"/>
+  <PARAM id="eqHighFreq" value="6000"/>
+</RoBoxPreset>
